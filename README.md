@@ -1,6 +1,6 @@
 <h1> Leandro Raimundo Silva </h1>
 
-Developer Back End | Python, JavaScript, CSS, HTML5
+Developer Back End in progress | Python, JavaScript, CSS, HTML5
   
 
 <!---
