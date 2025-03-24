@@ -1,6 +1,8 @@
 <h1> Leandro Raimundo Silva </h1>
 
 Developer Back End in progress | Python, JavaScript, CSS, HTML5
+
+<a href="https://www.linkedin.com/in/leandro-r-silva-a55552353/">LinkedIn</a>
   
 
 <!---
