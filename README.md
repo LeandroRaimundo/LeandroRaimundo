@@ -2,7 +2,7 @@
 
 Developer Back End in progress | Python, JavaScript, CSS, HTML5
 
-<a href="https://www.linkedin.com/in/leandro-r-silva-a55552353/ target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/leandro-r-silva-a55552353/ target="_blank" rel="noopener noreferrer">LinkedIn</a>
   
 
 <!---
