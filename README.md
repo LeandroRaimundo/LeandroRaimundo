@@ -17,11 +17,11 @@ Foco em desenvolvimento web, back-end, resolução de problemas e lógica de pro
 <h3> Me encontre em: </h3>
 
 <div>
-  <a href="https://www.linkedin.com/in/leandro-r-silva-a55552353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/leandro-r-silva-a55552353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/lelehb_?igsh=MW1jbHM3emxyb3VkdA==">
+  <a href="https://www.instagram.com/lelehb_?igsh=MW1jbHM3emxyb3VkdA==" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>  
 </div>
