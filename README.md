@@ -1,4 +1,4 @@
-<h1 align=center >♠️~ 𝕷𝖊𝖆𝖓𝖉𝖗𝖔 𝕽𝖆𝖎𝖒𝖚𝖓𝖉𝖔 𝕾𝖎𝖑𝖛𝖆 ~♠️</h1>
+<h1 align=center >♠️~ 𝓛𝓮𝓪𝓷𝓭𝓻𝓸 𝓡. 𝓢𝓲𝓵𝓿𝓪 ~♠️</h1>
 
 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 Foco em desenvolvimento web, back-end, resolução de problemas e lógica de programação.
