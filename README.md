@@ -1,7 +1,8 @@
 <h1 align=center >♠️~ 𝓛𝓮𝓪𝓷𝓭𝓻𝓸 𝓡. 𝓢𝓲𝓵𝓿𝓪 ~♠️</h1>
 
-Estudante de Análise e Desenvolvimento de Sistemas (ADS)
-Foco em desenvolvimento web, back-end, resolução de problemas e lógica de programação.
+<p><b>Estudante de Análise e Desenvolvimento de Sistemas (ADS)</b></p>
+
+- Foco em desenvolvimento web, back-end, resolução de problemas e lógica de programação.
 
 <div>
   <h2>Tecnologias:</h2>
